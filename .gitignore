@@ -1,0 +1,24 @@
+# Ortam Değişkenleri ve Gizli Dosyalar (ÇOK ÖNEMLİ)
+.env
+
+reports/
+
+# Veri Dosyaları (Büyük CSV dosyaları GitHub'a yüklenmez)
+data/raw/
+data/processed/
+
+# Python ve Sanal Ortam (Virtual Environment)
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook Çöp Dosyaları
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# İşletim Sistemi Sistem Dosyaları
+.DS_Store
+Thumbs.db
