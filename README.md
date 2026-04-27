@@ -14,10 +14,3 @@ Bu proje, **BLG462 - Büyük Veri** dersi dönem projesi kapsamında geliştiril
 3. **MongoDB Modelleme:** Temizlenen veriler NoSQL mimarisine uygun olarak BSON formatında yüklenmiş (Bulk Insert), Aggregation Pipeline ve indeksleme gibi ileri seviye 12 farklı sorgu gerçekleştirilmiştir.
 4. **PySpark Dağıtık İşleme:** Veri seti PySpark RDD/DataFrame mimarisine alınarak Transformation ve Action işlemleri uygulanmış, Pandas ile performans kıyaslaması yapılmıştır.
 5. **Görselleştirme:** Verideki gizli desenler (Duygu dağılımı, zaman serisi analizi, şikayetlerin kök nedenleri) görselleştirilmiştir.
-
-## 🚀 Kurulum ve Çalıştırma
-
-**1. Projeyi Klonlayın:**
-```bash
-git clone [https://github.com/kullaniciadiniz/twitter_big_data_pipeline.git](https://github.com/kullaniciadiniz/twitter_big_data_pipeline.git)
-cd twitter_big_data_pipeline
