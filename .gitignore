@@ -1,7 +1,6 @@
 # Ortam Değişkenleri ve Gizli Dosyalar (ÇOK ÖNEMLİ)
 .env
 
-reports/
 
 # Veri Dosyaları (Büyük CSV dosyaları GitHub'a yüklenmez)
 data/raw/
